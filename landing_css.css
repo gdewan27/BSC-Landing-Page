@@ -171,6 +171,7 @@ a
 	position:relative;
 	background: rgb(9,66,118);
 	overflow:hidden;
+	height: 250px;
 	text-align: center;
 	font-family: Montserrat, sans-serif;
 	
@@ -179,8 +180,8 @@ a
 {	position:absolute;
 	color: white;
 	top: 10%;
-	left: 30%;
-	font-size: 30pt;
+	left: 330px;
+	font-size: 20px;
 	
 }
 .para1
@@ -211,8 +212,9 @@ a
 }
 .darkbluebox
 {
+	position:relative;
 	background-color: #061E35;
-	padding: 100px 50px 100px 50px;
+	padding: 30px;
 	text-align: center;
 	font-family: Montserrat, sans-serif;
 	
@@ -220,9 +222,9 @@ a
 .price1
 {	
 	background-color: white;
-	width: 15%;
+	width: 18%;
 	float:left;	
-	margin: 100px;
+	margin: 50px;
 	padding: 10px 10px 10px 10px;
 	background-image:url('grid.png');
 	background-color: rgba(255,255,255,0.9);
@@ -233,9 +235,9 @@ a
 {	
 	
 	background-color: white;
-	width: 15%;
+	width: 18%;
 	float:left;
-	margin: 100px;
+	margin: 50px;
 	padding: 10px 10px 10px 10px;
 	background-image:url('grid.png');
 	background-color: rgba(255,255,255,0.9);
@@ -245,9 +247,9 @@ a
 .price3
 {
 	background-color: white;
-	width: 15%;
+	width: 18%;
 	float:left;
-	margin: 100px;
+	margin: 50px;
 	padding: 10px 10px 10px 10px;
 	background-image:url('grid.png');
 	background-color: rgba(255,255,255,0.9);
